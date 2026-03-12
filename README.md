@@ -2,7 +2,7 @@
 
 ## Data input
 
-The file "StatCode_Template" indicates how the data must be arranged in the #.xlsx file# needed as input. If there is any information you do not wish to add or write (like group names), you must still maintain this format. Do not write information in a different place from the one indicated in the example. When analyzing the same file several times, you must re-load the document with every new iteration in order to not lose the previous results
+The file "StatCode_Template" indicates how the data must be arranged in the **.xlsx file** needed as input. If there is any information you do not wish to add or write (like group names), you must still maintain this format. Do not write information in a different place from the one indicated in the example. When analyzing the same file several times, you must re-load the document with every new iteration in order to not lose the previous results
 
 #### Foldchange calculation
 Simply include the Ct data organized by groups by pairs of data: first the amplicon of interest, followed by the housekeeping amplicon. Include the name of the group only in the first of the two columns.  The Ct data from the sample used as reference (usually the calibrator (cal)) must be as the first data replicas in each columna. 
