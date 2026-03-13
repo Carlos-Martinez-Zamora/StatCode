@@ -1,5 +1,7 @@
 # StatCode
 
+The StatCode file must be open (R running) to use this app.
+
 ## Data input
 
 The file "StatCode_Template" indicates how the data must be arranged in the **.xlsx file** needed as input. If there is any information you do not wish to add or write (like group names), you must still maintain this format. Do not write information in a different place from the one indicated in the example. When analyzing the same file several times, you must re-load the document with every new iteration in order to not lose the previous results
